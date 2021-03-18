@@ -1,2 +1,2 @@
 # web-scraping-rental-master
- web scrapping test
+ Web scrapping test using `beautifulsoup` on Mudah.my - one of the largest classified ads site in Malaysia.
